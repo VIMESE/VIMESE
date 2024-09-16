@@ -2,7 +2,7 @@
 - 👀 I’m interested in data, how to handle, organize and properly use it. DATA IS POWER!!;
 - 🌱 I’m currently learning how to learn, deepening my sql experience and expanding my data related language arsenal;
 - 💞️ I’m looking to collaborate on projects that will help in my data crusade;
-- 📫 How to reach me, linked in(linkedin.com/in/alexander-stefanou-61446a312);
+- 📫 How to reach me, linked in(www.linkedin.com/in/alexander-stefanou-61446a312);
 - ⚡ Fun fact: i like jazz, basketball and drawing. Now let us not forget food ^_^;
 
 <!---
